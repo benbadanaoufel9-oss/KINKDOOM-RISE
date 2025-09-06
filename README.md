@@ -1,2 +1,2 @@
-# KINKDOOM-RISE
+# dddd
 واجهة اخبارية
